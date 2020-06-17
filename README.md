@@ -7,11 +7,11 @@ latest node image with `libvips` globally installed
 - CLI
 
 ```bash
-docker pull kagawagao:node-libvips
+docker pull kagawagao/node-libvips
 ```
 
 - Dockerfile
 
 ```dockerfile
-FROM kagawagao:node-libvips
+FROM kagawagao/node-libvips
 ```
