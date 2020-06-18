@@ -1,6 +1,6 @@
 # node-libvips
 
-latest node image with `libvips` globally installed
+latest `Node.js` image with `libvips` globally installed
 
 ## Usage
 
